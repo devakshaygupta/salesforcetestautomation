@@ -58,6 +58,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Secrets
-**/*.properties
